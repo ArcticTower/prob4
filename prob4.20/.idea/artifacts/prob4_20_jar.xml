@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prob4.20:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prob4_20_jar</output-path>
+    <root id="archive" name="prob4.20.jar">
+      <element id="module-output" name="prob4.20" />
+    </root>
+  </artifact>
+</component>
